@@ -1,0 +1,51 @@
+Comment,Stakeholder,sentiment_scores,compound_score,sentiment
+This amendment will simplify the compliance process for startups,Business Owner,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+The draft introduces unnecessary paperwork and delays,Lawyer,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+"Good initiative, it promotes digital governance",Student,"{'neg': 0.0, 'neu': 0.43, 'pos': 0.57, 'compound': 0.6486}",0.6486,Positive
+The rules are too complex for small businesses to follow,Citizen,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+The draft is clear and well-written,Auditor,"{'neg': 0.0, 'neu': 0.658, 'pos': 0.342, 'compound': 0.3818}",0.3818,Positive
+Ambiguity in definitions may create legal loopholes,Business Owner,"{'neg': 0.0, 'neu': 0.581, 'pos': 0.419, 'compound': 0.3818}",0.3818,Positive
+The proposed change is a welcome step towards transparency,Lawyer,"{'neg': 0.0, 'neu': 0.7, 'pos': 0.3, 'compound': 0.4588}",0.4588,Positive
+This amendment increases costs for companies,Student,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+"Neutral impact, as it doesn’t affect existing processes much",Citizen,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+The draft should include provisions for rural entrepreneurs,Auditor,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+Strongly supports digitization of filings,Business Owner,"{'neg': 0.0, 'neu': 0.395, 'pos': 0.605, 'compound': 0.5574}",0.5574,Positive
+This law is impractical for ground-level implementation,Lawyer,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+"Good for foreign investors, but hard for local SMEs",Student,"{'neg': 0.152, 'neu': 0.664, 'pos': 0.185, 'compound': 0.09}",0.09,Positive
+Encourages accountability and fair practices,Citizen,"{'neg': 0.0, 'neu': 0.366, 'pos': 0.634, 'compound': 0.6369}",0.6369,Positive
+Needs more clarity on penalties section,Auditor,"{'neg': 0.0, 'neu': 0.626, 'pos': 0.374, 'compound': 0.4576}",0.4576,Positive
+Draft is very user-friendly,Business Owner,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+The amendment should reduce compliance fees,Lawyer,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+This creates confusion with overlapping regulations,Student,"{'neg': 0.265, 'neu': 0.482, 'pos': 0.253, 'compound': -0.0258}",-0.0258,Neutral
+Appreciate the effort towards modernization,Citizen,"{'neg': 0.0, 'neu': 0.597, 'pos': 0.403, 'compound': 0.4019}",0.4019,Positive
+Does not address key issues faced by small traders,Auditor,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+Positive move towards aligning with global standards,Business Owner,"{'neg': 0.0, 'neu': 0.625, 'pos': 0.375, 'compound': 0.5574}",0.5574,Positive
+The timeline for implementation is too short,Lawyer,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+Draft should provide exemptions for startups,Student,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+Good balance of regulation and flexibility,Citizen,"{'neg': 0.0, 'neu': 0.43, 'pos': 0.57, 'compound': 0.6486}",0.6486,Positive
+The amendment fails to consider practical difficulties,Auditor,"{'neg': 0.5, 'neu': 0.5, 'pos': 0.0, 'compound': -0.6124}",-0.6124,Negative
+Encourages better corporate governance,Business Owner,"{'neg': 0.0, 'neu': 0.256, 'pos': 0.744, 'compound': 0.7003}",0.7003,Positive
+Too much reliance on technology may exclude rural population,Lawyer,"{'neg': 0.192, 'neu': 0.808, 'pos': 0.0, 'compound': -0.2263}",-0.2263,Negative
+The draft is neutral and requires more discussion,Student,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+Helpful for simplifying company registration,Citizen,"{'neg': 0.0, 'neu': 0.588, 'pos': 0.412, 'compound': 0.4215}",0.4215,Positive
+The law creates additional burden without clear benefits,Auditor,"{'neg': 0.544, 'neu': 0.299, 'pos': 0.157, 'compound': -0.6331}",-0.6331,Negative
+Appreciate the consultative approach,Business Owner,"{'neg': 0.0, 'neu': 0.526, 'pos': 0.474, 'compound': 0.4019}",0.4019,Positive
+The amendment should focus more on environmental impact,Lawyer,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+Good that it reduces manual intervention,Student,"{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}",0.4404,Positive
+This draft is unnecessary and redundant,Citizen,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+Clarity in reporting requirements is appreciated,Auditor,"{'neg': 0.0, 'neu': 0.4, 'pos': 0.6, 'compound': 0.7184}",0.7184,Positive
+The amendment seems rushed without proper study,Business Owner,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+Good step towards ease of doing business,Lawyer,"{'neg': 0.0, 'neu': 0.481, 'pos': 0.519, 'compound': 0.6597}",0.6597,Positive
+Fails to cover issues in dispute resolution,Student,"{'neg': 0.524, 'neu': 0.476, 'pos': 0.0, 'compound': -0.6705}",-0.6705,Negative
+Encourages startups through simplified filing,Citizen,"{'neg': 0.0, 'neu': 0.58, 'pos': 0.42, 'compound': 0.4404}",0.4404,Positive
+The draft is silent on cybersecurity measures,Auditor,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+Appreciate that suggestions are being invited,Business Owner,"{'neg': 0.0, 'neu': 0.649, 'pos': 0.351, 'compound': 0.4019}",0.4019,Positive
+Draft language is too technical for general public,Lawyer,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+Helps promote investor confidence,Student,"{'neg': 0.0, 'neu': 0.105, 'pos': 0.895, 'compound': 0.8176}",0.8176,Positive
+Impractical to implement in remote regions,Citizen,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+Good alignment with industry needs,Auditor,"{'neg': 0.0, 'neu': 0.58, 'pos': 0.42, 'compound': 0.4404}",0.4404,Positive
+This amendment duplicates existing rules,Business Owner,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,Neutral
+Positive for digital transformation,Lawyer,"{'neg': 0.0, 'neu': 0.455, 'pos': 0.545, 'compound': 0.5574}",0.5574,Positive
+Fails to protect small vendors,Student,"{'neg': 0.333, 'neu': 0.357, 'pos': 0.31, 'compound': -0.0516}",-0.0516,Negative
+Good intent but lacks clear roadmap,Citizen,"{'neg': 0.0, 'neu': 0.428, 'pos': 0.572, 'compound': 0.6542}",0.6542,Positive
+Appreciate inclusion of feedback mechanisms,Auditor,"{'neg': 0.0, 'neu': 0.597, 'pos': 0.403, 'compound': 0.4019}",0.4019,Positive
